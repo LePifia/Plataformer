@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c52d5a5c5566d3f448f896fa9c6324e1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Royalbean
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b099f90aba6401d4a91c69c8d57498ae, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
